@@ -1,0 +1,35 @@
+{
+  "maintainers": [
+    {
+      "npm": "georgegillams",
+      "github": "georgegillams"
+    },
+    {
+      "npm": "k0nserv",
+      "github": "k0nserv"
+    },
+    {
+      "npm": "mhdev",
+      "github": "matteo-hertel"
+    },
+    {
+      "npm": "mattface",
+      "github": "matthewdavidson"
+    },
+    {
+      "npm": "shaundon",
+      "github": "shaundon"
+    },
+    {
+      "npm": "tiagohngl",
+      "github": "tiagoengel"
+    },
+    {
+      "github": "willhg"
+    },
+    {
+      "npm": "amolgupta",
+      "github": "amolgupta"
+    }
+  ]
+}
